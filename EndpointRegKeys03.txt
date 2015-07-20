@@ -1,0 +1,21 @@
+[array]$endpointKeys_step3 = @(
+    "Registry::HKEY_CURRENT_USER\Software\Symantec\Symantec Endpoint Protection",
+    "Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\BHDrvx86",
+    "Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\IDSVix86",
+    "Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\NAVENG",
+    "Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\NAVEX15",
+    "Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\SepMasterService",
+    "Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\SmcService",
+    "Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\SNAC",
+    "Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\SnacNp",
+    "Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\SRTSP",
+    "Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\SRTSPX",
+    "Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\SyDvCtrl",
+    "Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\SymDS",
+    "Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\SymEFA",
+    "Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\SymEvent",
+    "Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\SymIRON",
+    "Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\SYMNETS",
+    "Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\SysPlant",
+    "Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Teefer2"
+    )
