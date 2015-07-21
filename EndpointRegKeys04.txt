@@ -1,6 +1,6 @@
-HKLM:\SOFTWARE\Microsoft\Security Center\Monitoring\SymantecAntiVirus
-HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\Smc.exe
-HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Controls Folder\Display\shellex\PropertySheetHandlers\LDVP Shell Extensions
-HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Notify\SEP
-HKLM:\SOFTWARE\Symantec\Symantec Endpoint Protection
-HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\SevInst
+Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Security Center\Monitoring\SymantecAntiVirus
+Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\Smc.exe
+Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Controls Folder\Display\shellex\PropertySheetHandlers\LDVP Shell Extensions
+Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Notify\SEP
+Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Symantec\Symantec Endpoint Protection
+Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\SevInst
