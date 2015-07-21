@@ -1,1 +1,1 @@
-Registry::HKey_Local_Machine\SOFTWARE\Symantec\InstalledApps
+Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Symantec\InstalledApps
