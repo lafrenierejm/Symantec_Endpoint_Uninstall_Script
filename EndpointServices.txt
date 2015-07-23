@@ -1,3 +1,0 @@
-Symantec Management Client
-Symantec Network Access Control
-Symantec Endpoint Protection
